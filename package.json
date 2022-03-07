@@ -1,0 +1,23 @@
+{
+  "name": "meme-cache",
+  "version": "1.0.0",
+  "description": "The most sluggish, clunky, and cumbersome caching system imaginable.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Test has run\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-stuff/meme-cache.git"
+  },
+  "keywords": [
+    "memes",
+    "cache"
+  ],
+  "author": "Timothy Daigle (tim-stuff)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tim-stuff/meme-cache/issues"
+  },
+  "homepage": "https://github.com/tim-stuff/meme-cache#readme"
+}
